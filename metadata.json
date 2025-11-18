@@ -1,0 +1,5 @@
+{
+  "name": "DataClean & Viz AI",
+  "description": "An AI-powered ETL and dashboarding tool. Upload a CSV file, provide cleaning instructions in plain English, and generate insightful data visualizations on the fly.",
+  "requestFramePermissions": []
+}
